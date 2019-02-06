@@ -12,3 +12,5 @@ Npm stuff of interest
     * npm show lodash versions - lists all lodash versions
     * npm outdated
     * npm update
+    * npm i lodash@latest - install latest lodash version regardless of the package.json file
+    * npm i lodash@4 - install v4 latest
